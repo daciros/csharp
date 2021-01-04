@@ -1,0 +1,13 @@
+C:\Users\daciros\source\repos\cursoc#\practicacsharp\practicacsharp\bin\Debug\netcoreapp3.1\practicacsharp.exe
+C:\Users\daciros\source\repos\cursoc#\practicacsharp\practicacsharp\bin\Debug\netcoreapp3.1\practicacsharp.deps.json
+C:\Users\daciros\source\repos\cursoc#\practicacsharp\practicacsharp\bin\Debug\netcoreapp3.1\practicacsharp.runtimeconfig.json
+C:\Users\daciros\source\repos\cursoc#\practicacsharp\practicacsharp\bin\Debug\netcoreapp3.1\practicacsharp.runtimeconfig.dev.json
+C:\Users\daciros\source\repos\cursoc#\practicacsharp\practicacsharp\bin\Debug\netcoreapp3.1\practicacsharp.dll
+C:\Users\daciros\source\repos\cursoc#\practicacsharp\practicacsharp\bin\Debug\netcoreapp3.1\practicacsharp.pdb
+C:\Users\daciros\source\repos\cursoc#\practicacsharp\practicacsharp\obj\Debug\netcoreapp3.1\practicacsharp.csprojAssemblyReference.cache
+C:\Users\daciros\source\repos\cursoc#\practicacsharp\practicacsharp\obj\Debug\netcoreapp3.1\practicacsharp.AssemblyInfoInputs.cache
+C:\Users\daciros\source\repos\cursoc#\practicacsharp\practicacsharp\obj\Debug\netcoreapp3.1\practicacsharp.AssemblyInfo.cs
+C:\Users\daciros\source\repos\cursoc#\practicacsharp\practicacsharp\obj\Debug\netcoreapp3.1\practicacsharp.csproj.CoreCompileInputs.cache
+C:\Users\daciros\source\repos\cursoc#\practicacsharp\practicacsharp\obj\Debug\netcoreapp3.1\practicacsharp.dll
+C:\Users\daciros\source\repos\cursoc#\practicacsharp\practicacsharp\obj\Debug\netcoreapp3.1\practicacsharp.pdb
+C:\Users\daciros\source\repos\cursoc#\practicacsharp\practicacsharp\obj\Debug\netcoreapp3.1\practicacsharp.genruntimeconfig.cache
